@@ -22,8 +22,6 @@ openai.api_key = lang.API_KEY
 # Define the input prompt with placeholders for title and points
 #     api_key = "customize_google_search_engine_api_key"
 #     cx = "your_customize_google_search_engine_id"
-api_key = "AIzaSyCCQofQIZo_1iqafBOthtVByxr5AdTKrGU"
-cx = "627b391c7586e4121"
 def lgchain(text, language):
     llm = OpenAI(model_name="gpt-3.5-turbo")
     template =""" translate the following text into {} language
