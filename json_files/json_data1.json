@@ -1,0 +1,31 @@
+{
+  "Title": "Understanding Ohm's Law: Voltage, Current, and Resistance in Electric Circuits",
+  "Introduction": {
+    "point": "Ohm's Law is a fundamental principle in electrical engineering that describes the relationship between voltage, current, and resistance in electric circuits. It states that the current flowing through a conductor is directly proportional to the voltage applied across it and inversely proportional to the resistance of the conductor.",
+    "img": "https://www.biosciencenotes.com/wp-content/uploads/2018/09/photosynthesis4.jpg"
+  },
+  "History": {
+    "point": "Ohm's Law was formulated by German physicist Georg Simon Ohm in 1827. He conducted numerous experiments and measurements to determine the relationship between voltage, current, and resistance. Ohm's Law was a significant breakthrough in the field of electrical theory and provided a mathematical way to analyze and predict the behavior of electric circuits.",
+    "img": null
+  },
+  "Working Principle": {
+    "point": "The working principle of Ohm's Law is based on the behavior of electrons in a conductor. When a voltage is applied across a conductor, it creates an electric field that exerts a force on the electrons, causing them to move. The flow of electrons constitutes an electric current. The resistance of the conductor hinders the flow of electrons, and the relationship between voltage, current, and resistance is described by Ohm's Law: V = IR.",
+    "img": "https://www.researchgate.net/publication/332688457/figure/fig2/AS:752118583533568@1556330452412/Working-principle-of-the-micro-photosynthetic-power-cells-PSC.png"
+  },
+  "Proof of Law": {
+    "point": "Ohm's Law can be mathematically derived from more fundamental principles in electrical engineering, such as Ohm's Law for a small element of a conductor and Kirchhoff's Laws. The proof of Ohm's Law involves analyzing the behavior of electrons, the energy transfer in an electric field, and the relationship between voltage, current, and resistance in a circuit.",
+    "img": "https://i.ytimg.com/vi/2a8FyieAYH4/maxresdefault.jpg"
+  },
+  "Advantages": {
+    "point": "Understanding Ohm's Law is crucial for analyzing and designing electric circuits. It allows engineers to predict and control the behavior of circuits, ensuring optimal performance and safety. Ohm's Law is also applied in various fields, including electronics, power transmission, telecommunications, and renewable energy.",
+    "img": null
+  },
+  "Disadvantages": {
+    "point": "While Ohm's Law is a valuable tool for electrical engineering, it has limitations. It assumes that the resistance of a conductor is constant, which may not always be the case in practical applications. Additionally, Ohm's Law does not consider non-linear elements, such as diodes and transistors, which require more complex models and analysis techniques.",
+    "img": null
+  },
+  "Conclusion": {
+    "point": "Ohm's Law is a fundamental principle that forms the basis of electrical engineering. It provides a simple and powerful relationship between voltage, current, and resistance in electric circuits. By understanding Ohm's Law, engineers can design and troubleshoot circuits, ensuring efficient and reliable operation. It serves as a foundation for further exploration into the broader field of electrical and electronic systems.",
+    "img": null
+  }
+}
