@@ -78,7 +78,7 @@ from langchain import PromptTemplate
 from langchain import LLMChain
 import json
 # Set your OpenAI API key here
-API_KEY = "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"
+API_KEY = "Your API KEY"
 def lgchain(text, language):
     if language=="e":
         return ""
