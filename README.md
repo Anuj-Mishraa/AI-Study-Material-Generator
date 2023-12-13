@@ -1,4 +1,4 @@
-# Assignment README
+# README
 
 ## Files Included
 
