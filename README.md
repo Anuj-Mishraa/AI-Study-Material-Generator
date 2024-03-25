@@ -93,3 +93,10 @@ In your API request, use the API key you obtained and the custom search engine I
 - Make sure to replace placeholder API keys, IDs, and other variables with your actual credentials before running the scripts.
 - The scripts are meant to be executed in order, as they build upon each other's outputs.
 - The scripts assume an internet connection is available for retrieving images and translation.
+
+## 2.O UPDATE
+- In the Directory of 2.O Study Material Generation the Notes from the custom features are added.
+- if yu want to try you can use your google cloud credentials in it and can see the demo on the local gradio server.
+- Right now only three classes and few subjects are added in it.
+- you will have to use your own google and openAI credentials.
+- In 2.O the feature of images addition from google custom search is not added yet.
